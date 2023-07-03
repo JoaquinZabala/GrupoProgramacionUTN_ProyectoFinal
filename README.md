@@ -14,8 +14,6 @@
 
 <h2>¿En qué consiste nuestra Aplicacion?</h2>
 
-<h2> APP-UTN San Rafael: </h2>
-
 ### Descripción:
 App-UTN San Rafael, es una aplicación móvil diseñada exclusivamente para los alumnos de una facultad. Su objetivo principal es mantenerlos informados sobre todas las novedades y noticias importantes que puedan ser relevantes para su vida académica. La aplicación ofrece una interfaz intuitiva y fácil de usar, con características personalizadas para cada usuario.
 
