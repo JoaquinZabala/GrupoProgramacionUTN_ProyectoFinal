@@ -14,12 +14,12 @@
 
 <h2>¿En qué consiste nuestro proyecto?</h2>
 
-Nombre: App-UTN San Rafael-
+### Nombre: App-UTN San Rafael-
 
 Descripción:
 App-UTN San Rafael-, es una aplicación móvil diseñada exclusivamente para los alumnos de una facultad. Su objetivo principal es mantenerlos informados sobre todas las novedades y noticias importantes que puedan ser relevantes para su vida académica. La aplicación ofrece una interfaz intuitiva y fácil de usar, con características personalizadas para cada usuario.
 
-Características principales:
+### Características principales:
 
 Noticias y anuncios: App-UTN San Rafael-, proporciona una sección de noticias y anuncios donde los alumnos pueden encontrar información relevante, como fechas de exámenes, cambios en los horarios de clases, plazos de entrega de trabajos, eventos estudiantiles, conferencias y talleres. Los usuarios pueden recibir notificaciones push en sus dispositivos móviles para mantenerse actualizados de manera instantánea.
 
