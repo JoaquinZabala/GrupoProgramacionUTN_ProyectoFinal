@@ -1,6 +1,11 @@
 # GrupoProgramacionUTN :computer: Aplicacion UTN
 
 ***
+
+![](http://pabloabalos.com.ar/images/UTN.jpg)
+
+***
+
 ## INTEGRANTES:  
   - `Ayelen Cabral`
   - `Nicolas Bogado`
