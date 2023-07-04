@@ -2,7 +2,9 @@
 
 ***
 
-![](http://pabloabalos.com.ar/images/UTN.jpg)
+<p align="center">
+<img width="50%" src="http://pabloabalos.com.ar/images/UTN.jpg">
+<p/>
 
 ***
 
