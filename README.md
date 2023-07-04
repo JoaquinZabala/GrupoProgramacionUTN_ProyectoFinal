@@ -6,6 +6,7 @@
 
 ***
 ![utn](https://assets8.lottiefiles.com/packages/lf20_fyobuzf9.json)
+![Captura web_3-7-2023_201844_straightforward-subtasks-837148 framer app](https://github.com/CodeSystem2022/GrupoProgramacionUTN_ProyectoFinal/assets/104447527/9f1b9327-3516-4798-818f-027f40a0e38b)
 
 
 ## INTEGRANTES:  
