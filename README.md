@@ -1,4 +1,8 @@
-# GrupoProgramacionUTN :computer: Aplicacion UTN
+
+<div align="center">
+
+# GrupoProgramacionUTN :computer: Aplicacion UTN 
+</div>
 
 ***
 
