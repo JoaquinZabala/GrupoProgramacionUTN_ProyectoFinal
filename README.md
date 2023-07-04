@@ -29,17 +29,17 @@ App-UTN San Rafael, es una aplicación móvil diseñada exclusivamente para los 
 
 ### Características principales:
 
-   <h4> 1) Noticias y anuncios </h4>
+   1) [Noticias y anuncios](https://github.com/CodeSystem2022/GrupoProgramacionUTN_ProyectoFinal/wiki/Caracter%C3%ADsticas-Principales#noticias-y-anuncios) :
 
-   <h4> 2) Calendario académico </h4>
+   2) [Calendario académico](https://github.com/CodeSystem2022/GrupoProgramacionUTN_ProyectoFinal/wiki/Caracter%C3%ADsticas-Principales#calendario-academico) : 
 
-   <h4> 3) Directorio de contactos </h4>
+   3) [Directorio de contactos](https://github.com/CodeSystem2022/GrupoProgramacionUTN_ProyectoFinal/wiki/Caracter%C3%ADsticas-Principales#directorio-de-contactos) : 
 
-   <h4> 4) Recursos académicos </h4>
+   4) [Recursos académicos](https://github.com/CodeSystem2022/GrupoProgramacionUTN_ProyectoFinal/wiki/Caracter%C3%ADsticas-Principales#recursos-acad%C3%A9micos) : 
 
-   <h4> 5) Chat y foros </h4>
+   5) [Chat y foros](https://github.com/CodeSystem2022/GrupoProgramacionUTN_ProyectoFinal/wiki/Caracter%C3%ADsticas-Principales#chat-y-foros) :
 
-   <h4> 6) Perfil personalizado </h4>
+   6) [Perfil personalizado](https://github.com/CodeSystem2022/GrupoProgramacionUTN_ProyectoFinal/wiki/Caracter%C3%ADsticas-Principales#perfil-personalizado) :
 
 App-UTN San Rafael, es una herramienta imprescindible para los alumnos de la facultad, ya que les brinda una manera conveniente de mantenerse informados y organizados en su vida académica. La aplicación fomenta la comunicación y la colaboración, facilitando así una experiencia estudiantil más enriquecedora y conectada.
 ## Lenguajes de programacion Utilizados:
