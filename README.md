@@ -6,6 +6,13 @@
 
 ***
 
+<div align="center">
+
+<img src="https://github.com/CodeSystem2022/GrupoProgramacionUTN_ProyectoFinal/assets/112594912/d7c1eec9-0185-456a-84e7-58dc98591a83" width="600">
+</div>
+
+***
+
 <p align="center">
 <img width="50%" src="http://pabloabalos.com.ar/images/UTN.jpg">
 <p/>
