@@ -40,3 +40,15 @@ App-UTN San Rafael, es una aplicación móvil diseñada exclusivamente para los 
    <h4> 6) Perfil personalizado </h4>
 
 App-UTN San Rafael, es una herramienta imprescindible para los alumnos de la facultad, ya que les brinda una manera conveniente de mantenerse informados y organizados en su vida académica. La aplicación fomenta la comunicación y la colaboración, facilitando así una experiencia estudiantil más enriquecedora y conectada.
+## Lenguajes de programacion Utilizados:
+
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Python
+
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML
+
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS
+
