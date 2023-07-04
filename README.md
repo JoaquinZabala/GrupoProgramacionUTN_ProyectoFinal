@@ -5,8 +5,6 @@
 ![](http://pabloabalos.com.ar/images/UTN.jpg)
 
 ***
-![utn](https://assets8.lottiefiles.com/packages/lf20_fyobuzf9.json)
-
 
 ## INTEGRANTES:  
   - `Ayelen Cabral`
