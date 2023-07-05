@@ -56,6 +56,7 @@ App-UTN San Rafael, es una herramienta imprescindible para los alumnos de la fac
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev) Kotlin
 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev) Android Studio
 
 ## INTEGRANTES:  
   - `Ayelen Cabral`
