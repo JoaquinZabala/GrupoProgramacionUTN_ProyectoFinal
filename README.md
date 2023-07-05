@@ -52,6 +52,7 @@ App-UTN San Rafael, es una herramienta imprescindible para los alumnos de la fac
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML
 
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev) Kotlin
 
